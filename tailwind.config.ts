@@ -47,6 +47,18 @@ export default {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
         },
+        philosopher: {
+          DEFAULT: "hsl(var(--philosopher))",
+          foreground: "hsl(var(--philosopher-foreground))",
+        },
+        wisdom: {
+          DEFAULT: "hsl(var(--wisdom))",
+          foreground: "hsl(var(--wisdom-foreground))",
+        },
+        thought: {
+          DEFAULT: "hsl(var(--thought))",
+          foreground: "hsl(var(--thought-foreground))",
+        },
         sidebar: {
           DEFAULT: "hsl(var(--sidebar-background))",
           foreground: "hsl(var(--sidebar-foreground))",
