@@ -9,6 +9,7 @@ import Theory from "./pages/Theory";
 import Analysis from "./pages/Analysis";
 import Creative from "./pages/Creative";
 import Chatbot from "./pages/Chatbot";
+import Liberation from "./pages/Liberation";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -25,6 +26,7 @@ const App = () => (
             <Route path="/theory" element={<Theory />} />
             <Route path="/analysis" element={<Analysis />} />
             <Route path="/creative" element={<Creative />} />
+            <Route path="/liberation" element={<Liberation />} />
             <Route path="/chatbot" element={<Chatbot />} />
             {/* ADD ALL CUSTOM ROUTES ABOVE THE CATCH-ALL "*" ROUTE */}
             <Route path="*" element={<NotFound />} />

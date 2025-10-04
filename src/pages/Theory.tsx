@@ -1,143 +1,89 @@
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { User, Wrench, AlertTriangle, Target } from "lucide-react";
+import { User, Wrench, BookOpen, Quote } from "lucide-react";
 
 const Theory = () => {
   return (
-    <div className="space-y-8 max-w-4xl mx-auto">
-      <div className="text-center space-y-4">
-        <h1 className="text-3xl md:text-4xl font-bold text-foreground">
-          Lý thuyết <span className="text-primary">Mác-Lênin</span>
+    <div className="space-y-8 max-w-5xl mx-auto">
+      {/* Header */}
+      <div className="text-center space-y-3">
+        <h1 className="text-3xl md:text-4xl font-bold">
+          Lý thuyết <span className="text-indigo-600">Mác – Lênin</span>
         </h1>
         <p className="text-lg text-muted-foreground">
-          Quan điểm về bản chất con người, lao động và sự tha hóa
+          Tóm tắt nội dung thuyết trình: Con người & Lao động
         </p>
       </div>
 
       <div className="grid gap-6">
-        {/* Bản chất con người */}
-        <Card className="p-6 border shadow-lg">
+        {/* Con người */}
+        <Card className="p-6 border shadow-md bg-gradient-to-br from-indigo-50 to-white">
           <div className="flex items-start gap-4">
-            <div className="w-10 h-10 bg-primary rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
-              <User className="text-primary-foreground" size={20} />
+            <div className="w-12 h-12 bg-indigo-600 rounded-xl flex items-center justify-center flex-shrink-0">
+              <User className="text-white" size={22} />
             </div>
-            <div className="space-y-4">
-              <div>
-                <h2 className="text-xl font-bold text-foreground mb-2">Bản chất con người</h2>
-                <Badge variant="secondary" className="mb-3">Khái niệm cốt lõi</Badge>
-              </div>
-              <ul className="space-y-2 text-muted-foreground">
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Con người là động vật xã hội, bản chất được hình thành qua quan hệ xã hội</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Bản chất con người không cố định, thay đổi theo điều kiện lịch sử - xã hội</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Con người tồn tại qua hoạt động thực tiễn, chủ yếu là lao động</span>
-                </li>
+            <div className="space-y-3">
+              <h2 className="text-xl font-bold text-indigo-800">
+                Quan niệm về Con người
+              </h2>
+              <Badge variant="outline" className="bg-indigo-100 text-indigo-700">
+                Bản chất
+              </Badge>
+              <ul className="list-disc pl-6 text-muted-foreground space-y-2">
+                <li>Tiền đề nghiên cứu xã hội: con người hiện thực trong lịch sử.</li>
+                <li>Con người là sự thống nhất giữa <strong>sinh vật</strong> và <strong>xã hội</strong>.</li>
+                <li>Mặt sinh học: sản phẩm của tự nhiên, tuân theo quy luật sinh học.</li>
+                <li>Mặt xã hội: tồn tại & phát triển qua lao động và quan hệ xã hội.</li>
               </ul>
+              <div className="flex items-center gap-2 italic text-sm text-indigo-700">
+                <Quote size={16} /> 
+                “Bản chất con người là tổng hòa những quan hệ xã hội” – C. Mác
+              </div>
             </div>
           </div>
         </Card>
 
         {/* Lao động */}
-        <Card className="p-6 border shadow-lg">
+        <Card className="p-6 border shadow-md bg-gradient-to-br from-purple-50 to-white">
           <div className="flex items-start gap-4">
-            <div className="w-10 h-10 bg-philosopher rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
-              <Wrench className="text-philosopher-foreground" size={20} />
+            <div className="w-12 h-12 bg-purple-600 rounded-xl flex items-center justify-center flex-shrink-0">
+              <Wrench className="text-white" size={22} />
             </div>
-            <div className="space-y-4">
-              <div>
-                <h2 className="text-xl font-bold text-foreground mb-2">Vai trò của lao động</h2>
-                <Badge variant="secondary" className="mb-3">Hoạt động cơ bản</Badge>
-              </div>
-              <ul className="space-y-2 text-muted-foreground">
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-philosopher rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Lao động là hoạt động có ý thức, có mục đích của con người</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-philosopher rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Qua lao động, con người biến đổi tự nhiên và tự biến đổi chính mình</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-philosopher rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Lao động sáng tạo giúp con người thể hiện bản chất và khẳng định giá trị</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-philosopher rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Lao động tạo ra quan hệ xã hội và phát triển văn hóa</span>
-                </li>
+            <div className="space-y-3">
+              <h2 className="text-xl font-bold text-purple-800">Vai trò của Lao động</h2>
+              <Badge variant="outline" className="bg-purple-100 text-purple-700">
+                Nền tảng
+              </Badge>
+              <ul className="list-disc pl-6 text-muted-foreground space-y-2">
+                <li>Lao động quyết định sự hình thành & phát triển của con người.</li>
+                <li>Chuyển hóa <em>vượn người → con người</em>.</li>
+                <li>Tạo ra ngôn ngữ, tư duy, ý thức và nền tảng xã hội.</li>
+                <li>Là nguồn gốc của của cải vật chất & tinh thần.</li>
               </ul>
+              <div className="flex items-center gap-2 italic text-sm text-purple-700">
+                <Quote size={16} /> 
+                “Lao động đã sáng tạo ra bản thân con người” – Ph. Ăngghen
+              </div>
             </div>
           </div>
         </Card>
 
-        {/* Sự tha hóa */}
-        <Card className="p-6 border shadow-lg">
+        {/* Từ khoá */}
+        <Card className="p-6 border shadow-md bg-gradient-to-br from-yellow-50 to-white">
           <div className="flex items-start gap-4">
-            <div className="w-10 h-10 bg-destructive rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
-              <AlertTriangle className="text-destructive-foreground" size={20} />
+            <div className="w-12 h-12 bg-yellow-500 rounded-xl flex items-center justify-center flex-shrink-0">
+              <BookOpen className="text-white" size={22} />
             </div>
-            <div className="space-y-4">
-              <div>
-                <h2 className="text-xl font-bold text-foreground mb-2">Sự tha hóa lao động</h2>
-                <Badge variant="destructive" className="mb-3">Vấn đề then chốt</Badge>
-              </div>
-              <ul className="space-y-2 text-muted-foreground">
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-destructive rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Người lao động bị tách biệt khỏi sản phẩm lao động của mình</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-destructive rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Lao động trở thành hoạt động cưỡng bức, mất tính sáng tạo</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-destructive rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Con người cảm thấy xa lạ với bản thân và với người khác</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-destructive rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Cuộc sống trở nên vô nghĩa, chỉ còn lại việc "tồn tại" thay vì "sống"</span>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </Card>
-
-        {/* Giải pháp */}
-        <Card className="p-6 border shadow-lg bg-gradient-to-br from-card to-thought">
-          <div className="flex items-start gap-4">
-            <div className="w-10 h-10 bg-wisdom rounded-lg flex items-center justify-center flex-shrink-0 mt-1">
-              <Target className="text-wisdom-foreground" size={20} />
-            </div>
-            <div className="space-y-4">
-              <div>
-                <h2 className="text-xl font-bold text-foreground mb-2">Hướng giải quyết</h2>
-                <Badge className="mb-3 bg-wisdom text-wisdom-foreground">Triển vọng</Badge>
-              </div>
-              <ul className="space-y-2 text-muted-foreground">
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-wisdom rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Xây dựng xã hội không có giai cấp, loại bỏ áp bức kinh tế</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-wisdom rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Phát triển lao động sáng tạo, con người làm chủ quá trình sản xuất</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-wisdom rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Giáo dục toàn diện, phát triển đa dạng khả năng con người</span>
-                </li>
-                <li className="flex items-start gap-2">
-                  <span className="w-2 h-2 bg-wisdom rounded-full mt-2 flex-shrink-0"></span>
-                  <span>Tạo điều kiện để mỗi người "sống" thật sự, không chỉ "tồn tại"</span>
-                </li>
+            <div className="space-y-3">
+              <h2 className="text-xl font-bold text-yellow-800">Từ khoá</h2>
+              <Badge variant="outline" className="bg-yellow-100 text-yellow-700">
+                Tóm lược
+              </Badge>
+              <ul className="list-disc pl-6 text-muted-foreground space-y-2">
+                <li><strong>Con người</strong>: Thực thể sinh học – xã hội</li>
+                <li><strong>Bản chất</strong>: Tổng hòa quan hệ xã hội</li>
+                <li><strong>Lao động</strong>: Quyết định sự phát triển con người</li>
+                <li><strong>Ý nghĩa</strong>: Nền tảng tồn tại & phát triển xã hội</li>
               </ul>
             </div>
           </div>
