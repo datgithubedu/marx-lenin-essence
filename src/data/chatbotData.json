@@ -1,0 +1,170 @@
+[
+  {
+    "patterns": ["kiếm tiền để sống", "mục đích kiếm tiền", "ý nghĩa công việc", "sống để làm việc hay làm việc để sống"],
+    "response": "🤔 Theo triết học Mác-Lênin, đây là câu hỏi trung tâm phản ánh mâu thuẫn giữa bản chất sáng tạo của lao động và thực tại xã hội tư bản. Lao động vốn là hoạt động để 'sống' (phát triển toàn diện), nhưng thường bị tha hóa thành phương tiện chỉ để 'tồn tại' (tái sản xuất sức lao động)."
+  },
+  {
+    "patterns": ["lao động là gì", "bản chất của lao động", "vai trò của lao động"],
+    "response": "🛠️ Lao động là hoạt động có mục đích và sáng tạo, đặc trưng của con người. Thông qua lao động, con người cải tạo tự nhiên, tạo ra của cải vật chất, phát triển xã hội và hoàn thiện chính bản thân mình. Đây là điều kiện tiên quyết cho sự tồn tại và phát triển của loài người."
+  },
+  {
+    "patterns": ["lao động sáng tạo", "lao động tự do", "lao động vị nhân sinh"],
+    "response": "🎨 Lao động tự do, sáng tạo là hình thái lao động cao nhất, nơi con người thể hiện được 'bản chất loài' của mình. Trong đó, lao động không phải là gánh nặng mà là một nhu cầu, một niềm vui, một phương tiện để tự thực hiện hóa bản thân."
+  },
+  {
+    "patterns": ["tha hóa lao động là gì", "công việc nhàm chán", "cảm thấy xa lạ với công việc"],
+    "response": "🔗 'Tồn tại để kiếm ăn' là biểu hiện rõ rệt của sự tha hóa lao động. Karl Marx chỉ ra 4 khía cạnh của sự tha hóa trong xã hội tư bản, khiến con người trở thành nô lệ cho công việc của chính mình."
+  },
+  {
+    "patterns": ["tha hóa khỏi sản phẩm", "làm ra nhưng không sở hữu", "sản phẩm xa lạ"],
+    "response": "🚗 Tha hóa khỏi sản phẩm lao động: Người công nhân làm ra chiếc xe hơi nhưng không đủ tiền mua nó. Sản phẩm do chính họ tạo ra lại trở thành một thế lực xa lạ, thống trị lại họ trên thị trường."
+  },
+  {
+    "patterns": ["tha hóa trong quá trình lao động", "làm việc như một cái máy", "công việc lặp đi lặp lại"],
+    "response": "⚙️ Tha hóa trong quá trình lao động: Công việc bị chia nhỏ, chuyên môn hóa cao độ khiến người lao động chỉ thực hiện những thao tác đơn điệu, máy móc. Họ không kiểm soát được quá trình làm việc, lao động không còn là sự sáng tạo mà là sự khổ sai."
+  },
+  {
+    "patterns": ["tha hóa khỏi bản chất loài người", "đánh mất bản thân trong công việc", "không còn là chính mình"],
+    "response": "💔 Tha hóa khỏi bản chất người: Lao động đáng lẽ là hoạt động thể hiện sự sáng tạo và tự do thì lại bị biến thành phương tiện để duy trì sự tồn tại thể xác. Con người chỉ cảm thấy mình là mình khi ở ngoài công việc (ăn, uống, nghỉ ngơi), còn trong công việc thì lại cảm thấy xa lạ với chính mình."
+  },
+  {
+    "patterns": ["tha hóa khỏi con người", "cạnh tranh với đồng nghiệp", "quan hệ thù địch trong công việc"],
+    "response": "👥 Tha hóa con người khỏi con người: Quan hệ giữa người với người bị thay thế bằng quan hệ hàng-tiền. Đồng nghiệp trở thành đối thủ cạnh tranh, nhà tư bản là kẻ bóc lột. Con người nhìn nhau qua lăng kính lợi ích kinh tế."
+  },
+  {
+    "patterns": ["vật hóa", "reification", "biến người thành số", "đo lường bằng kpi"],
+    "response": "🔢 Vật hóa (Reification) là một khái niệm sâu hơn của sự tha hóa. Nó không chỉ làm con người xa lạ với lao động, mà còn biến các mối quan hệ, phẩm chất và năng lực của con người thành những 'vật' có thể đo lường, định lượng và trao đổi. Ví dụ: Đánh giá con người qua chỉ số KPI, biến 'nguồn nhân lực' thành một con số trong bảng tính."
+  },
+  {
+    "patterns": ["làm giàu", "tích lũy tư bản", "mục đích của nhà tư bản"],
+    "response": "💰 Mục đích tối cao của nhà tư bản không phải là 'sống' theo nghĩa hưởng thụ, mà là sự vận động không ngừng của việc tích lũy giá trị thặng dư. T→H→T' (Tiền - Hàng - Tiền nhiều hơn) trở thành mục đích tự thân, con người trở thành phương tiện cho sự lớn lên của tư bản."
+  },
+  {
+    "patterns": ["giá trị thặng dư", "làm thêm giờ không công", "bóc lột lao động"],
+    "response": "⏱️ Giá trị thặng dư là phần giá trị do người lao động tạo ra ngoài giá trị sức lao động của họ và bị nhà tư bản chiếm không. 'Tồn tại để kiếm ăn' chính là quá trình người lao động bán sức lao động để nhận lại tiền lương chỉ đủ nuôi sống bản thân, trong khi phần lớn thời gian làm việc là để tạo ra lợi nhuận cho chủ."
+  },
+  {
+    "patterns": ["tư bản bất biến", "tư bản khả biến", "c và v"],
+    "response": "🏭 Tư bản được chia thành hai bộ phận: Tư bản bất biến (c) là giá trị của tư liệu sản xuất (máy móc, nhà xưởng, nguyên liệu) được bảo tồn và chuyển vào sản phẩm. Tư bản khả biến (v) là giá trị sức lao động (tiền lương), nó có sự biến đổi về lượng trong quá trình sản xuất để tạo ra giá trị thặng dư (m). Nguồn gốc của bóc lột nằm ở tư bản khả biến."
+  },
+  {
+    "patterns": ["xã hội cộng sản", "làm theo năng lực hưởng theo nhu cầu", "lao động tự giác"],
+    "response": "🌟 Trong giai đoạn cao của xã hội cộng sản, khi tư hữu về tư liệu sản xuất bị xóa bỏ, lao động sẽ không còn là phương tiện kiếm sống đơn thuần mà trở thành nhu cầu sống bậc nhất. Con người lao động tự giác, sáng tạo để cống hiến. Đó chính là trạng thái 'sống' thực sự."
+  },
+  {
+    "patterns": ["giá trị sử dụng", "giá trị trao đổi", "mâu thuẫn trong hàng hóa"],
+    "response": "⚖️ Mâu thuẫn 'sống' và 'tồn tại' cũng phản ánh mâu thuẫn trong hàng hóa: giá trị sử dụng (công dụng của vật, để 'sống') và giá trị (giá trị trao đổi, để bán lấy tiền, để 'tồn tại'). Trong xã hội tư bản, giá trị thường lấn át giá trị sử dụng."
+  },
+  {
+    "patterns": ["sùng bái hàng hóa", "coi trọng vật chất", "tiền là tất cả"],
+    "response": "💎 Sùng bái hàng hóa là hiện tượng mà các mối quan hệ xã hội giữa người với người lại biểu hiện ra thành quan hệ giữa vật với vật. Con người đánh giá nhau qua tài sản, hàng hiệu, thay vì phẩm chất. Đây là hệ quả của việc lao động bị tha hóa và giá trị trao đổi thống trị."
+  },
+  {
+    "patterns": ["tiền lương là gì", "giá trị sức lao động", "bản chất của tiền công"],
+    "response": "💸 Tiền lương không phải là giá cả của lao động, mà là giá cả của hàng hóa sức lao động. Nó được quyết định bởi giá trị các tư liệu sinh hoạt cần thiết để người công nhân tái sản xuất sức lao động. Về cơ bản, nó chỉ đủ để 'tồn tại' và tiếp tục làm việc."
+  },
+  {
+    "patterns": ["vai trò của nhà nước", "nhà nước bảo vệ ai", "công cụ của giai cấp thống trị"],
+    "response": "🏛️ Theo Mác - Lênin, nhà nước không trung lập. Nó là một bộ phận của kiến trúc thượng tầng, là công cụ của giai cấp thống trị (giai cấp tư sản) để bảo vệ cơ sở hạ tầng (quan hệ sản xuất tư bản chủ nghĩa). Các luật về sở hữu, hợp đồng, chống đình công... đều nhằm duy trì trật tự có lợi cho việc bóc lột."
+  },
+  {
+    "patterns": ["ý thức hệ thống trị", "tư tưởng của giai cấp thống trị", "false consciousness"],
+    "response": "🧠 Ý thức hệ của giai cấp thống trị (chủ nghĩa cá nhân, cạnh tranh, 'giấc mơ Mỹ'...) được lan truyền qua giáo dục, truyền thông, khiến cho giai cấp bị trị chấp nhận tình trạng bị bóc lột của mình như một điều 'tự nhiên' hoặc do 'nỗ lực cá nhân chưa đủ'. Đây gọi là 'ý thức sai lầm' (false consciousness)."
+  },
+  {
+    "patterns": ["chủ nghĩa tiêu dùng", "vòng lặp kiếm tiền tiêu tiền", "nhu cầu giả tạo"],
+    "response": "🛍️ Chủ nghĩa tiêu dùng, được thúc đẩy bởi quảng cáo, tạo ra những nhu cầu không thực chất, đẩy con người vào vòng lặp 'kiếm ăn' để mua sắm. Việc này làm họ xa rời mục đích 'sống' đích thực và củng cố sự thống trị của tư bản."
+  },
+  {
+    "patterns": ["vai trò của nợ nần", "vay tiêu dùng", "trả góp", "nô lệ của nợ"],
+    "response": "💳 Nợ (vay mua nhà, học phí, thẻ tín dụng) là một công cụ kỷ luật hiện đại. Nó buộc người lao động phải bám trụ vào công việc, chấp nhận các điều kiện bất lợi để có tiền trả nợ hàng tháng, qua đó củng cố vững chắc vòng xoáy 'tồn tại để kiếm ăn'."
+  },
+  {
+    "patterns": ["giải phóng con người", "mục tiêu cuối cùng của cách mạng", "phát triển toàn diện"],
+    "response": "🕊️ Mục tiêu cuối cùng của chủ nghĩa xã hội và chủ nghĩa cộng sản là giải phóng con người khỏi mọi hình thức áp bức, bóc lột và tha hóa, tạo điều kiện cho con người được phát triển toàn diện. Khi đó, lao động sẽ thực sự là để 'sống'."
+  },
+  {
+    "patterns": ["thực tiễn", "praxis", "lý luận và hành động", "thay đổi thế giới"],
+    "response": "✊ 'Praxis' (Thực tiễn) là khái niệm then chốt. Theo Mác, để thoát khỏi tình trạng tha hóa, không chỉ cần nhận thức về nó (lý luận), mà phải có hành động cách mạng để thay đổi các điều kiện vật chất đã tạo ra nó (thực tiễn). 'Các nhà triết học đã chỉ giải thích thế giới, nhưng vấn đề là cải tạo thế giới'."
+  },
+  {
+    "patterns": ["thực tiễn việt nam", "vừa sống vừa tồn tại", "kinh tế thị trường định hướng xã hội chủ nghĩa"],
+    "response": "🇻🇳 Ở Việt Nam, trong thời kỳ quá độ lên CNXH, nền kinh tế thị trường làm nảy sinh mâu thuẫn giữa 'tồn tại để kiếm ăn' và 'kiếm tiền để sống'. Đảng và Nhà nước chủ trương phát triển kinh tế đi đôi với đảm bảo an sinh xã hội để giảm bớt mâu thuẫn này."
+  },
+  {
+    "patterns": ["burnout", "kiệt sức vì công việc", "stress công sở"],
+    "response": "🤯 Hiện tượng 'burnout' (kiệt sức) ngày càng phổ biến là một minh chứng hiện đại cho sự tha hóa lao động. Nó là kết quả của việc con người bị vắt kiệt sức lao động thể chất và tinh thần để tối đa hóa giá trị thặng dư."
+  },
+  {
+    "patterns": ["hustle culture", "văn hóa hối hả", "làm việc không ngừng nghỉ", "nghiện công việc"],
+    "response": "🏃 'Văn hóa hối hả' là một hệ tư tưởng của kiến trúc thượng tầng, nó 'bình thường hóa' và thậm chí 'lãng mạn hóa' sự tự bóc lột. Người lao động bị khuyến khích làm việc quá sức, coi đó là một đức tính tốt, phục vụ cho lợi ích của giai cấp thống trị."
+  },
+  {
+    "patterns": ["great resignation", "làn sóng nghỉ việc hàng loạt", "từ bỏ công việc"],
+    "response": "🚶 Làn sóng 'nghỉ việc hàng loạt' có thể được xem là một hình thức đấu tranh tự phát của người lao động. Họ từ chối các công việc bị tha hóa nặng nề để tìm kiếm một cuộc sống có ý nghĩa hơn, thể hiện sự phản kháng đối với tình trạng 'tồn tại chỉ để kiếm ăn'."
+  },
+  {
+    "patterns": ["cân bằng công việc và cuộc sống", "work-life balance"],
+    "response": "⚖️ Khái niệm 'cân bằng công việc-cuộc sống' là một nỗ lực để giảm nhẹ sự tha hóa trong khuôn khổ chủ nghĩa tư bản. Tuy nhiên, theo Mác, sự 'cân bằng' thực sự chỉ có thể đạt được khi lao động và cuộc sống hòa làm một, khi lao động là một phần tự nhiên và sáng tạo của 'sống'."
+  },
+  {
+    "patterns": ["cơ sở hạ tầng", "kiến trúc thượng tầng", "ý thức hệ"],
+    "response": "🏛️ Tình trạng 'tồn tại để kiếm ăn' là do cơ sở hạ tầng (quan hệ sản xuất tư bản chủ nghĩa) quyết định. Kiến trúc thượng tầng (nhà nước, pháp luật, văn hóa 'hustle') sau đó lại quay lại củng cố và bảo vệ cho cơ sở hạ tầng đó."
+  },
+  {
+    "patterns": ["đấu tranh giai cấp", "mâu thuẫn lao động và tư bản"],
+    "response": "💥 Mâu thuẫn giữa 'sống' và 'tồn tại' về bản chất là biểu hiện của mâu thuẫn giữa giai cấp vô sản và giai cấp tư sản. Giải quyết mâu thuẫn này chỉ có thể thông qua đấu tranh giai cấp, tiến tới một xã hội công bằng hơn."
+  },
+  {
+    "patterns": ["lịch sử của lao động", "thời phong kiến", "thời tư bản"],
+    "response": "📜 Trong lịch sử, hình thức bóc lột đã thay đổi. Thời phong kiến, nông nô bị bóc lột địa tô. Thời tư bản, công nhân bị bóc lột giá trị thặng dư. Dù hình thức khác nhau, bản chất 'lao động để tồn tại' cho người khác hưởng lợi vẫn còn đó."
+  },
+  {
+    "patterns": ["tự do", "bản chất của tự do", "khi nào con người tự do"],
+    "response": "🕊️ Theo Engels, 'Tự do là nhận thức được cái tất yếu'. Con người chỉ thực sự tự do khi nhận thức được các quy luật của tự nhiên và xã hội, và quan trọng nhất là khi được giải phóng khỏi các quan hệ sản xuất áp bức, để lao động trở thành hoạt động tự do và sáng tạo."
+  },
+  {
+    "patterns": ["đội quân lao động dự trữ", "thất nghiệp", "sợ mất việc"],
+    "response": " jobless 'Đội quân lao động dự trữ' (thất nghiệp) là một yếu tố tất yếu của chủ nghĩa tư bản. Sự tồn tại của nó gây áp lực lên những người đang có việc làm, buộc họ phải chấp nhận mức lương thấp và điều kiện làm việc tồi tệ hơn, củng cố tình trạng 'tồn tại để kiếm ăn'."
+  },
+  {
+    "patterns": ["tư bản tài chính", "chủ nghĩa đế quốc", "đầu tư kiếm lời"],
+    "response": "📈 Theo Lenin, trong giai đoạn chủ nghĩa đế quốc, tư bản tài chính (sự hợp nhất của tư bản ngân hàng và tư bản công nghiệp) trở nên thống trị. Việc 'kiếm tiền' không còn chỉ giới hạn trong sản xuất mà mở rộng ra đầu cơ, cho vay, làm cho đồng tiền tự nó 'đẻ ra tiền', xa rời hoàn toàn hoạt động 'sống' và lao động sản xuất."
+  },
+  {
+    "patterns": ["chủ nghĩa hiện sinh", "sartre", "tự do lựa chọn", "so sánh với mác-xít"],
+    "response": "🤔 Chủ nghĩa hiện sinh, ví dụ của Sartre, nhấn mạnh sự 'tự do lựa chọn' tuyệt đối của cá nhân trong việc tạo ra ý nghĩa cuộc sống. Điều này có vẻ giống 'kiếm tiền để sống'. Tuy nhiên, Mác-xít phê phán rằng sự 'tự do' này chỉ là ảo tưởng nếu con người chưa được giải phóng khỏi các điều kiện vật chất và quan hệ sản xuất đang trói buộc họ."
+  },
+  {
+    "patterns": ["nhàn rỗi", "thời gian rảnh", "ý nghĩa của nghỉ ngơi"],
+    "response": "🏖️ Dưới chủ nghĩa tư bản, thời gian rảnh rỗi chỉ là thời gian để 'phục hồi sức lao động' nhằm quay lại quá trình sản xuất. Trong xã hội cộng sản, thời gian nhàn rỗi sẽ là thời gian để con người tự do phát triển các năng lực của mình (nghệ thuật, khoa học, thể thao), đó mới thực sự là 'sống'."
+  },
+  {
+    "patterns": ["tự động hóa", "robot thay thế con người", "tương lai của việc làm"],
+    "response": "🤖 Theo Mác, tự động hóa trong tay tư bản sẽ tạo ra nhiều thất nghiệp hơn và tăng cường bóc lột. Nhưng trong tay xã hội chủ nghĩa, tự động hóa sẽ là công cụ để giải phóng con người khỏi lao động nặng nhọc, tăng thời gian rảnh rỗi và tạo điều kiện cho sự phát triển toàn diện."
+  },
+  {
+    "patterns": ["tồn tại xã hội", "ý thức xã hội", "liên hệ với chủ đề"],
+    "response": "🔄 'Tồn tại để kiếm ăn' thuộc về tồn tại xã hội (điều kiện kinh tế). Quan niệm rằng 'phải thành công', 'phải giàu có' thuộc về ý thức xã hội. Tồn tại xã hội quyết định ý thức xã hội: khi kinh tế khó khăn, người ta sẽ tập trung vào việc 'tồn tại'."
+  },
+  {
+    "patterns": ["phủ định của phủ định", "con đường phát triển", "vòng xoáy ốc"],
+    "response": "🌀 Quá trình phát triển từ 'tồn tại để kiếm ăn' đến 'kiếm tiền để sống' có thể được xem như quy luật phủ định của phủ định. Xã hội nguyên thủy (lao động để tồn tại) → Xã hội có giai cấp (lao động bị tha hóa) → Xã hội cộng sản (lao động tự do, ở một trình độ cao hơn). Nó là một sự quay trở lại nhưng trên một cơ sở mới."
+  },
+  {
+    "patterns": ["khủng hoảng môi trường", "tư bản và thiên nhiên", "cạn kiệt tài nguyên", "lợi nhuận bằng mọi giá"],
+    "response": "🌍 Mâu thuẫn trao đổi chất (metabolic rift) là khái niệm của Mác để chỉ sự rạn nứt trong mối quan hệ giữa xã hội loài người và tự nhiên. Chủ nghĩa tư bản, với mục tiêu tối đa hóa lợi nhuận, đã khai thác tài nguyên một cách kiệt quệ, phá vỡ các chu trình sinh thái tự nhiên, đe dọa chính nền tảng tồn tại của con người."
+  },
+  {
+    "patterns": ["vai trò gia đình", "tái sản xuất sức lao động", "việc nhà không lương"],
+    "response": "👨‍👩‍👧‍👦 Gia đình trong chủ nghĩa tư bản có vai trò kinh tế quan trọng: tái sản xuất ra thế hệ lao động tiếp theo. Các công việc nội trợ, chăm sóc con cái (thường do phụ nữ đảm nhiệm không công) là yếu tố thiết yếu để duy trì và 'sửa chữa' sức lao động cho tư bản mà không tốn chi phí."
+  },
+  {
+    "patterns": ["toàn cầu hóa", "bóc lột nước nghèo", "chuỗi cung ứng toàn cầu"],
+    "response": "🌐 Toàn cầu hóa dưới chủ nghĩa tư bản là sự mở rộng quan hệ bóc lột ra quy mô toàn thế giới. Tư bản từ các nước đế quốc di chuyển đến các nước đang phát triển để tận dụng nguồn lao động giá rẻ, tài nguyên dồi dào và luật lệ môi trường lỏng lẻo, tạo ra một hệ thống bóc lột có hệ thống trên phạm vi toàn cầu."
+  },
+  {
+    "patterns": ["*"],
+    "response": "❌ Vấn đề bạn hỏi rất sâu sắc và phức tạp. Dưới góc độ triết học Mác-Lênin, mình đã phân tích các khía cạnh liên quan từ kinh tế, chính trị đến văn hóa và xã hội. Bạn có muốn đi sâu vào một khái niệm cụ thể nào không, ví dụ như 'tha hóa' hay 'giá trị thặng dư'?"
+  }
+]

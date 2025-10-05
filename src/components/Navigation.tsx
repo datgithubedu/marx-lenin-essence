@@ -8,8 +8,8 @@ const Navigation = () => {
     { path: "/", label: "Trang chủ" },
     { path: "/theory", label: "Lý thuyết" },
     { path: "/analysis", label: "Phân tích" },
-    { path: "/creative", label: "Ứng dụng AI" },
     { path: "/liberation", label: "Tổng kết" },
+    { path: "/creative", label: "Ứng dụng AI" },
     { path: "/chatbot", label: "Chatbot" },
   ];
 
