@@ -84,9 +84,7 @@ const AIUsage = () => {
             <BookOpenCheck size={18}/> Kiểm chứng thông tin
           </h3>
           <ul className="space-y-2 text-sm text-muted-foreground">
-            <li>• Nguồn: </li>
-            <li>• Nguồn: </li>
-            <li>• Nguồn: </li>
+            <li>• Nguồn: giáo trình triết học Mác - Lênin (2019) từ trang 247 đến trang 253</li>
           </ul>
         </Card>
       </div>
