@@ -168,42 +168,19 @@
     "response": "❌ Vấn đề bạn hỏi rất sâu sắc và phức tạp. Dưới góc độ triết học Mác-Lênin, mình đã phân tích các khía cạnh liên quan từ kinh tế, chính trị đến văn hóa và xã hội. Bạn có muốn đi sâu vào một khái niệm cụ thể nào không, ví dụ như 'tha hóa' hay 'giá trị thặng dư'?"
   },
   {
-    "patterns": [
-        "bản chất con người", 
-        "con người theo mác", 
-        "marx human nature", 
-        "human essence"
-      ],
-      "response": "Theo C.Mác, bản chất con người không phải là cái trừu tượng cố định trong từng cá nhân riêng lẻ, mà là tổng hòa các mối quan hệ xã hội. Con người hình thành và phát triển trong quá trình lao động và giao tiếp xã hội."
+    "patterns": ["bản chất con người", "con người theo mác", "marx human nature", "human essence"],
+    "response": "Theo C.Mác, bản chất con người không phải là cái trừu tượng cố định trong từng cá nhân riêng lẻ, mà là tổng hòa các mối quan hệ xã hội. Con người hình thành và phát triển trong quá trình lao động và giao tiếp xã hội."
   },
   {
-      "patterns": [
-        "lao động quan trọng", 
-        "vai trò của lao động", 
-        "tại sao lao động quan trọng", 
-        "ý nghĩa của lao động", 
-        "work importance"
-      ],
-      "response": "Lao động là hoạt động cơ bản tạo nên con người. Thông qua lao động, con người cải biến tự nhiên, tạo ra của cải vật chất và phát triển bản thân, ý thức, xã hội. Lao động là yếu tố quyết định hình thành bản chất xã hội của con người."
-    },
-    {
-      "patterns": [
-        "sự khác biệt giữa sống và tồn tại", 
-        "sống khác tồn tại", 
-        "live vs exist", 
-        "ý nghĩa của sống", 
-        "tồn tại là gì"
-      ],
-      "response": "Theo triết học Mác, 'tồn tại' là trạng thái sinh học đơn thuần, còn 'sống' mang ý nghĩa xã hội, phản ánh hoạt động có mục đích, có giá trị, có sáng tạo của con người. Con người không chỉ tồn tại mà còn sống với ý thức và mục tiêu."
-    },
-    {
-      "patterns": [
-        "thoát khỏi sự tha hóa lao động", 
-        "khắc phục tha hóa lao động", 
-        "vượt qua tha hóa lao động", 
-        "alienation labor", 
-        "cách giải phóng con người khỏi tha hóa"
-      ],
-      "response": "Theo Mác, để thoát khỏi sự tha hóa lao động, cần xóa bỏ chế độ tư hữu tư bản chủ nghĩa — nguồn gốc khiến con người bị biến thành công cụ. Khi lao động trở lại là hoạt động tự do, sáng tạo và vì con người, tha hóa mới được khắc phục."
-    }
+    "patterns": ["lao động quan trọng", "vai trò của lao động", "tại sao lao động quan trọng", "ý nghĩa của lao động", "work importance"],
+    "response": "Lao động là hoạt động cơ bản tạo nên con người. Thông qua lao động, con người cải biến tự nhiên, tạo ra của cải vật chất và phát triển bản thân, ý thức, xã hội. Lao động là yếu tố quyết định hình thành bản chất xã hội của con người."
+  },
+  {
+    "patterns": ["sự khác biệt giữa sống và tồn tại", "sống khác tồn tại", "live vs exist", "ý nghĩa của sống", "tồn tại là gì"],
+    "response": "Theo triết học Mác, 'tồn tại' là trạng thái sinh học đơn thuần, còn 'sống' mang ý nghĩa xã hội, phản ánh hoạt động có mục đích, có giá trị, có sáng tạo của con người. Con người không chỉ tồn tại mà còn sống với ý thức và mục tiêu."
+  },
+  {
+    "patterns": ["thoát khỏi sự tha hóa lao động", "khắc phục tha hóa lao động", "vượt qua tha hóa lao động", "alienation labor",  "cách giải phóng con người khỏi tha hóa"],
+    "response": "Theo Mác, để thoát khỏi sự tha hóa lao động, cần xóa bỏ chế độ tư hữu tư bản chủ nghĩa — nguồn gốc khiến con người bị biến thành công cụ. Khi lao động trở lại là hoạt động tự do, sáng tạo và vì con người, tha hóa mới được khắc phục."
+  }
   ]
