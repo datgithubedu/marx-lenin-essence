@@ -200,7 +200,7 @@ const Chatbot = () => {
         <div className="grid sm:grid-cols-2 gap-3">
           {[
             "bản chất con người theo Mác là gì",
-            "tại sao lao động lại quan trọng với con người",
+            "tại sao lao động quan trọng với con người",
             "sự khác biệt giữa sống và tồn tại là gì",
             "làm thế nào để thoát khỏi sự tha hóa lao động",
           ].map((q, i) => (
